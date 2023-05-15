@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ПЛ Котельва</string>
+    <string name="create">Создать</string>
+    <string name="search">Поиск</string>
+    <string name="tplnr">Тех.місце</string>
+    <string name="tplnr_name">Назва лінії</string>
+    <string name="save">Зберегти</string>
+    <string name="cancel">Отмена</string>
+    <string name="download">Загрузить</string>
+    <string name="menu_add">Створити відпайку</string>
+    <string name="menu_edit">Редактувати назву</string>
+    <string name="menu_add_opr">Створити опору</string>
+
+    <string name="gps_status_on">ON</string>
+    <string name="gps_status_off">OFF</string>
+    <string name="gps_status_init">init</string>
+    <string name="gps_satelite">10[01/10]</string>
+    <string name="gps_sat_val">00</string>
+    <string name="gps_sat_div">-</string>
+    <string name="gps_lat00">00°00\'00.00\"N</string>
+    <string name="gps_lng00">00°00\'00.00\"E</string>
+    <string name="gps_accuracy">000.0</string>
+    <string name="addNext">Створити наступну опору</string>
+    <string name="take">Зняти</string>
+
+    <string name="clear_coord">Видалити координати опори</string>
+    <string name="deleteOpr">Видалити опору</string>
+    <string name="menu_add_provod">Переріз провідника</string>
+    <string name="createOtp">Створити відпайку</string>
+    <string name="choose">Вибрати</string>
+    <string name="notChoose">Не зазначати</string>
+    <string name="spinner_title">Не вибрано</string>
+    <string name="lastOpr">Остання опора</string>
+    <string name="menu_add_saved">Створити існуючу опору</string>
+    <string name="firstOpr">Перша опора у відпайці</string>
+    <string name="title_lorem">lorem ipsum</string>
+    <string name="renameLine">Нова назва лінії</string>
+    <string name="deleteOtp">Видалити відпайку</string>
+    <string name="createKml">Зберегти Kml</string>
+    <string name="menu_add_saved_0_4">Створити існуючу опору 0.4</string>
+    <string name="menu_add_saved_tp_0_4">Додати ТП 0.4</string>
+    <string name="menu_create_gap">Створити розрив</string>
+    <string name="invent">Інвентарний номер</string>
+
+
+</resources>
